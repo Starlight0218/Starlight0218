@@ -160,9 +160,7 @@ This project helped me practice working with real-time systems, larger JavaScrip
 
 <div align="center">
 
-<a href="https://github.com/MasonR03/Capstone_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasonR03&repo=Capstone_Project&theme=tokyonight" />
-</a>
+[![Capstone Project](https://img.shields.io/badge/View%20Capstone%20Project-Multiplayer%202D%20Space%20Arcade%20Game-blueviolet?style=for-the-badge&logo=github)](https://github.com/MasonR03/Capstone_Project)
 
 </div>
 
@@ -174,36 +172,33 @@ This project helped me practice working with real-time systems, larger JavaScrip
 
 <div align="center">
 
-<a href="https://github.com/MasonR03/Capstone_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasonR03&repo=Capstone_Project&theme=tokyonight" />
-</a>
+[![Capstone Project](https://img.shields.io/badge/Capstone%20Project-Multiplayer%202D%20Space%20Game-blueviolet?style=for-the-badge&logo=github)](https://github.com/MasonR03/Capstone_Project)
 
-<a href="https://github.com/Starlight0218/Starlight0218">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Starlight0218&repo=Starlight0218&theme=tokyonight" />
-</a>
+[![GitHub Profile Portfolio](https://img.shields.io/badge/GitHub%20Profile%20Portfolio-Starlight0218-black?style=for-the-badge&logo=github)](https://github.com/Starlight0218/Starlight0218)
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Starlight0218&show_icons=true&theme=tokyonight" />
+![GitHub followers](https://img.shields.io/github/followers/Starlight0218?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Starlight0218?style=for-the-badge&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=Starlight0218&style=for-the-badge)
 
 </div>
 
 ---
 
-## Top Languages
+## Top Languages and Skills
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlight0218&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=js,python,c,kotlin,html,css,nodejs,git,github,vscode,linux,postman,gcp" />
 
 </div>
-
 ---
 
 ## Other Project Experience
