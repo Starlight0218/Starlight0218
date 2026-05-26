@@ -12,7 +12,7 @@ I'm a Computer Science student interested in software development, game developm
 
 ## Featured Project: Capstone Multiplayer Space Game
 
-![Capstone Gameplay Screenshot](images/capstone-gameplay.png)
+![Capstone Gameplay Screenshot](images/capstone-gameplay.jpg)
 
 For my Capstone project, I worked on a multiplayer 2D space arcade game built with **Phaser**, **Socket.io**, **Node.js**, **JavaScript**, **HTML**, and **CSS**. The game is browser-based and includes real-time multiplayer movement, ship/class selection, star collection, level progression, UI systems, and minimap features.
 
@@ -55,7 +55,7 @@ Some of my main contributions included:
 
 ### Gameplay
 
-![Gameplay Screenshot](images/capstone-gameplay.png)
+![Gameplay Screenshot](images/capstone-gameplay.jpg)
 
 ### Main Menu
 
@@ -63,7 +63,7 @@ Some of my main contributions included:
 
 ### Level Menu
 
-![Level Menu Screenshot](images/capstone-level-menu.png)
+![Level Menu Screenshot](images/capstone-level-menu.jpg)
 
 ### Minimap
 
