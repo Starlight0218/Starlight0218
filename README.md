@@ -199,7 +199,7 @@ This project helped me practice working with real-time systems, larger JavaScrip
 <img src="https://skillicons.dev/icons?i=js,python,c,kotlin,html,css,nodejs,git,github,vscode,linux,postman,gcp" />
 
 </div>
----
+
 
 ## Other Project Experience
 
