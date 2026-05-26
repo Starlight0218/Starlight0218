@@ -200,6 +200,7 @@ This project helped me practice working with real-time systems, larger JavaScrip
 
 </div>
 
+---
 
 ## Other Project Experience
 
